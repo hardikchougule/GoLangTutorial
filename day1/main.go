@@ -17,3 +17,6 @@ func main() {
 
 // for compilation command is:- go mod init go-lang-totrial
 // for execution command is :- go run main.go
+
+//assig1:-create 2 fiiles in one folder and task is to in one file contains main and another file contains sum and ummpoort sum ffile in main file.
+//assig2:-
